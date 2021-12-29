@@ -11,6 +11,8 @@
 
 <br> 
 
+## 📗 ***[Notebook](https://github.com/Gladouu/P6/blob/main/P6_01_analysis.ipynb)***
+
 ## Scénario : 
 
 Votre société de consulting informatique vous propose une nouvelle mission au ministère de l'Intérieur, dans le cadre de la lutte contre la criminalité organisée, à l'Office central pour la répression du faux monnayage. Votre mission si vous l'acceptez : créer un algorithme de détection de faux billets.
