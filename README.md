@@ -11,7 +11,11 @@
 
 <br> 
 
-## 📗 ***[Notebook](https://github.com/Gladouu/P6/blob/main/P6_01_analysis.ipynb)***
+## Notebook : 
+
+📗 ***[Analyse des données](https://github.com/Gladouu/P6/blob/main/P6_01_analysis.ipynb)***
+
+<br>
 
 ## Scénario : 
 
