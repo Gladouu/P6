@@ -9,9 +9,7 @@
   - Interpréter une ACP
   - Réaliser une ACP
 
-<br> 
-
-## Notebook : 
+#### Notebook : 
 
 📗 ***[Analyse des données](https://github.com/Gladouu/P6/blob/main/P6_01_analysis.ipynb)***
 
